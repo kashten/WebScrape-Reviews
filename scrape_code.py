@@ -20,7 +20,7 @@ from selenium.webdriver.chrome.options import Options
 
 from tqdm import tqdm_notebook
 
-base_url = "https://ca.trustpilot.com"
+base_url = "https://ca.amazon.com"
 
 
 def get_soup(url):
